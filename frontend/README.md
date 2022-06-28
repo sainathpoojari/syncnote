@@ -1,10 +1,6 @@
-extract file
-install a react app by
-npx create-react-app appname
-cd appname
-npm init
-open other terminal
-cd backend
-npm init
-install mongo db compass and connect it during fetching api
-make sure to include bootstrap css and js link
+extract the file 
+install all packages reuired using npm i OR create a new app by create-react-app and paste the extracted files
+then start the forntend server by npm start
+then start the backend in other terminal by ( cd backend ) and keep it running
+then connect monodb compass keep it running
+you are ready to go
